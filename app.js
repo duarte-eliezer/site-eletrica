@@ -1,7 +1,7 @@
 
 // CONFIGURAÇÃO DO WHATSAPP
 
-const numeroWhatsApp = "(53)991016682";
+const numeroWhatsApp = https://wa.me/5553991016682;
 
 const mensagem = "Olá! Gostaria de solicitar um orçamento para um serviço elétrico.";
 
